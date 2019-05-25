@@ -1,6 +1,4 @@
 // RAISAAT ATIFA RASHID
-// Net ID: rar150430
-// CS 2336.003 - Project #2
 
 import Customer.*;
 import java.io.*;
